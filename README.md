@@ -1,4 +1,4 @@
-# Higher Education
+# The Challenges Higher Education Is Facing and What This Means for Institutions
 
 # Abstract
 This senior project paper is a culmination of one year’s research on enrollment, debt, and net price in higher education. Four papers on college pricing, college debt, enrollment patterns, and the distinction between sticker price and net price were synthesized with the ambition of examining the challenges higher education is facing and what this means for institutions. 
